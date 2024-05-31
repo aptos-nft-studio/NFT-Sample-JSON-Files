@@ -1,0 +1,30 @@
+{
+  "description": "Lambo",
+  "name": "Lambo #7",
+  "image": "https://sapphire-satisfied-ferret-847.mypinata.cloud/ipfs/QmdeFiBzd7xBoXaYPD1Jw7UfQ2EZZ1pp26czzCkPWzvWrt/7.jpeg",
+  "external_url": "https://yahoo.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Hibiscus"
+    },
+    {
+      "trait_type": "Score",
+      "value": "7"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://sapphire-satisfied-ferret-847.mypinata.cloud/ipfs/QmdeFiBzd7xBoXaYPD1Jw7UfQ2EZZ1pp26czzCkPWzvWrt/7.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
+
