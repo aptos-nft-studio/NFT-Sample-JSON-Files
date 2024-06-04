@@ -1,4 +1,4 @@
-### Sample JSON files for NFT collection.
+### Aptos NFT Studio - Sample JSON files for NFT collection.
 
 This repo is part of tutorial for minting NFT collection on Aptos.
 
